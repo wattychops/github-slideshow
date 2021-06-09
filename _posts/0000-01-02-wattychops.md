@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-some more text
+replace with something witty "anything worth something is not easy"
 good times
